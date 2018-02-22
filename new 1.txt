@@ -1,0 +1,7 @@
+class hola
+{ 
+		pablic static void main (string args[])
+		{
+			system.out.println("hola");
+			}
+}
